@@ -1,6 +1,8 @@
 # Memory-game
 memory or lucky game whatever you call it! 
 
+#### [Play here](https://pakodi.herokuapp.com/)
+
 ### Can solve this using MVC architecture(which I have done) or you can do this!
  1. Create a folder
  2. create three files 
