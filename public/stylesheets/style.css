@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+table, td {
+    border: 5px solid black;
+}
+
+td{
+    width:100px;
+    height:100px;
+    text-align:center;
+    background-color: blue;
+}
