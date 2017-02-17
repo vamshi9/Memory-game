@@ -1,7 +1,7 @@
 # Memory-game
 memory or lucky game whatever you call it! 
 
-### Can solve this using MEAN Stack architecture(which I have done) or you can do this!
+### Can solve this using MVC architecture(which I have done) or you can do this!
  1. Create a folder
  2. create three files 
      - m1.js
@@ -19,3 +19,15 @@ memory or lucky game whatever you call it!
   3) nodemon app.js
   4) open browser and start local server localhost:1800
   ```
+  
+  ## Hosting : Heroku
+  ```
+  1. heroku create app_name
+  2. create git repository
+  3. copy all files into repository
+  4. remove node_modules since heroku does it for you
+  5. git commit -m "your message"
+  6. git push heroku master
+  7. heroku open
+  ```
+  ## Hola!
