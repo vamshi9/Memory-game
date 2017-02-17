@@ -72,8 +72,10 @@ function initialSetup(){
                         complete(clickedArray[1]);
                         clickedArray = [];
                         if(numCompleted == 8){
+                            setTimeout(function(){
                             alert('You won in ' + time + ' seconds');
                             clearInterval(interval);
+                          },100);
                         }
                     }else{
                         //if matching pair is not found
