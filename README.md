@@ -21,13 +21,13 @@ memory or lucky game whatever you call it!
   ```
   
   ## Hosting : Heroku
-  ```
-  1. heroku create app_name
-  2. create git repository
-  3. copy all files into repository
-  4. remove node_modules since heroku does it for you
-  5. git commit -m "your message"
-  6. git push heroku master
-  7. heroku open
+  ```javascript
+  1) heroku create app_name
+  2) create git repository
+  3) copy all files into repository
+  4) remove node_modules since heroku does it for you
+  5) git commit -m "your message"
+  6) git push heroku master
+  7) heroku open
   ```
   ## Hola!
